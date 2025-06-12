@@ -11,7 +11,7 @@ This is a simple, interactive **Simon Says**-style memory game built with HTML, 
 
 ## 📸 Preview
 
-![Simon Says Game Screenshot](screenshot.png)
+![Simon Says Game Screenshot](simon-says-preview.png)
 
 🛠️ Tech Stack
  - HTML
